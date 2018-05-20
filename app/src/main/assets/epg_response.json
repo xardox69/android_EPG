@@ -1,0 +1,558 @@
+{
+  "channels": [
+    {
+      "name":"Movies",
+      "programs":[
+        {
+          "name":"Gladiator",
+          "duration": 30
+        },
+        {
+        "name":"Citizen Kane",
+        "duration": 60
+        },
+        {
+        "name":"The Third Man",
+        "duration": 75
+        },
+        {
+        "name":"Shawshank Redemption",
+        "duration": 90
+        },
+        {
+        "name":"Breaking Bad",
+        "duration": 105
+        },
+        {
+        "name":"Mad Max: Fury Road",
+        "duration": 120
+        },
+        {
+        "name":"Toblerone",
+        "duration": 135
+        },
+        {
+          "name":"Black men",
+          "duration": 45
+        },
+        {
+          "name":"Vanilla Sky",
+          "duration": 55
+        },
+        {
+          "name":"Back Jack",
+          "duration": 10
+        },
+        {
+          "name":"Rodeo",
+          "duration": 15
+        },
+        {
+          "name":"Citizen Kane",
+          "duration": 120
+        },
+        {
+          "name":"Citizen Kane",
+          "duration": 360
+        }
+
+        
+        ]
+      
+      
+    },
+    {
+      "name":"Kids",
+      "programs":[
+        {
+        "name":"Frozen",
+        "duration": 135
+        },
+        {
+        "name":"Loin King",
+        "duration": 120
+        },
+        {
+        "name":"Jungle Book",
+        "duration": 105
+        },
+        {
+        "name":"Toy Story",
+        "duration": 90
+        },
+        {
+        "name":"Moana",
+        "duration": 75
+        },
+        {
+        "name":"Willie Wonka",
+        "duration": 60
+        },
+        {
+        "name":"Finding Nemo",
+        "duration": 30
+        },
+        {
+        "name":"Minions",
+        "duration": 30
+        }
+        ]
+      
+      
+    },
+    {
+      "name":"Action",
+      "programs":[
+        {
+        "name":"Die Hard",
+        "duration": 30
+        },
+        {
+        "name":"The Dark Knight",
+        "duration": 30
+        },
+        {
+        "name":"The Avengers",
+        "duration": 30
+        },
+        {
+        "name":"The Terminator",
+        "duration": 30
+        },
+        {
+        "name":"John Wick",
+        "duration": 30
+        },
+        {
+        "name":"Looper",
+        "duration": 30
+        },
+        {
+        "name":"Black Panther",
+        "duration": 30
+        },
+        {
+        "name":"Leathel Wepon",
+        "duration": 30
+        }
+        ]
+      
+      
+    },
+     {
+      "name":"Romance",
+      "programs":[
+        {
+          "name":"Gladiator",
+          "duration": 30
+        },
+        {
+          "name":"Citizen Kane",
+          "duration": 60
+        },
+        {
+          "name":"The Third Man",
+          "duration": 75
+        },
+        {
+          "name":"Shawshank Redemption",
+          "duration": 90
+        },
+        {
+          "name":"Breaking Bad",
+          "duration": 105
+        },
+        {
+          "name":"Mad Max: Fury Road",
+          "duration": 120
+        },
+        {
+          "name":"Toblerone",
+          "duration": 135
+        },
+        {
+          "name":"Black men",
+          "duration": 45
+        },
+        {
+          "name":"Vanilla Sky",
+          "duration": 55
+        },
+        {
+          "name":"Back Jack",
+          "duration": 10
+        },
+        {
+          "name":"Rodeo",
+          "duration": 15
+        },
+        {
+          "name":"Citizen Kane",
+          "duration": 120
+        },
+        {
+          "name":"Citizen Kane 1",
+          "duration": 360
+        }
+        ]
+      
+      
+    },
+    {
+      "name":"Star",
+      "programs":[
+        {
+          "name":"Frozen",
+          "duration": 135
+        },
+        {
+          "name":"Loin King",
+          "duration": 120
+        },
+        {
+          "name":"Jungle Book",
+          "duration": 105
+        },
+        {
+          "name":"Toy Story",
+          "duration": 90
+        },
+        {
+          "name":"Moana",
+          "duration": 75
+        },
+        {
+          "name":"Willie Wonka",
+          "duration": 60
+        },
+        {
+          "name":"Finding Nemo",
+          "duration": 30
+        },
+        {
+          "name":"Minions",
+          "duration": 30
+        }
+        ]
+      
+      
+    },
+    {
+      "name":"Mtv",
+      "programs":[
+        {
+          "name":"Gladiator",
+          "duration": 30
+        },
+        {
+          "name":"Citizen Kane",
+          "duration": 60
+        },
+        {
+          "name":"The Third Man",
+          "duration": 75
+        },
+        {
+          "name":"Shawshank Redemption",
+          "duration": 90
+        },
+        {
+          "name":"Breaking Bad",
+          "duration": 105
+        },
+        {
+          "name":"Mad Max: Fury Road",
+          "duration": 120
+        },
+        {
+          "name":"Toblerone",
+          "duration": 135
+        },
+        {
+          "name":"Black men",
+          "duration": 45
+        },
+        {
+          "name":"Vanilla Sky",
+          "duration": 55
+        },
+        {
+          "name":"Back Jack",
+          "duration": 10
+        },
+        {
+          "name":"Rodeo",
+          "duration": 15
+        },
+        {
+          "name":"Citizen Kane",
+          "duration": 120
+        },
+        {
+          "name":"Citizen Kane",
+          "duration": 360
+        }
+        ]
+      
+      
+    },
+    {
+      "name":"ABC News Now",
+      "programs":[
+        {
+        "name":"Die Hard",
+        "duration": 30
+        },
+        {
+        "name":"The Dark Knight",
+        "duration": 30
+        },
+        {
+        "name":"The Avengers",
+        "duration": 30
+        },
+        {
+        "name":"The Terminator",
+        "duration": 30
+        },
+        {
+        "name":"John Wick",
+        "duration": 30
+        },
+        {
+        "name":"Looper",
+        "duration": 30
+        },
+        {
+        "name":"Black Panther",
+        "duration": 30
+        },
+        {
+        "name":"Leathel Wepon",
+        "duration": 30
+        }
+        ]
+      
+      
+    },
+    {
+      "name":"BBC",
+      "programs":[
+        {
+          "name":"Frozen",
+          "duration": 135
+        },
+        {
+          "name":"Loin King",
+          "duration": 120
+        },
+        {
+          "name":"Jungle Book",
+          "duration": 105
+        },
+        {
+          "name":"Toy Story",
+          "duration": 90
+        },
+        {
+          "name":"Moana",
+          "duration": 75
+        },
+        {
+          "name":"Willie Wonka",
+          "duration": 60
+        },
+        {
+          "name":"Finding Nemo",
+          "duration": 30
+        },
+        {
+          "name":"Minions",
+          "duration": 30
+        }
+        ]
+      
+      
+    },
+    {
+      "name":"CNN",
+      "programs":[
+        {
+        "name":"Die Hard",
+        "duration": 30
+        },
+        {
+        "name":"The Dark Knight",
+        "duration": 30
+        },
+        {
+        "name":"The Avengers",
+        "duration": 30
+        },
+        {
+        "name":"The Terminator",
+        "duration": 30
+        },
+        {
+        "name":"John Wick",
+        "duration": 30
+        },
+        {
+        "name":"Looper",
+        "duration": 30
+        },
+        {
+        "name":"Black Panther",
+        "duration": 30
+        },
+        {
+        "name":"Leathel Wepon",
+        "duration": 30
+        }
+        ]
+      
+      
+    },
+    {
+      "name":"Fox News",
+      "programs":[
+        {
+          "name":"Gladiator",
+          "duration": 30
+        },
+        {
+          "name":"Citizen Kane",
+          "duration": 60
+        },
+        {
+          "name":"The Third Man",
+          "duration": 75
+        },
+        {
+          "name":"Shawshank Redemption",
+          "duration": 90
+        },
+        {
+          "name":"Breaking Bad",
+          "duration": 105
+        },
+        {
+          "name":"Mad Max: Fury Road",
+          "duration": 120
+        },
+        {
+          "name":"Toblerone",
+          "duration": 135
+        },
+        {
+          "name":"Black men",
+          "duration": 45
+        },
+        {
+          "name":"Vanilla Sky",
+          "duration": 55
+        },
+        {
+          "name":"Back Jack",
+          "duration": 10
+        },
+        {
+          "name":"Rodeo",
+          "duration": 15
+        },
+        {
+          "name":"Citizen Kane",
+          "duration": 120
+        },
+        {
+          "name":"Citizen Kane 1",
+          "duration": 360
+        }
+        ]
+      
+      
+    },
+    {
+      "name":"Al Jazeera",
+      "programs":[
+        {
+        "name":"Die Hard",
+        "duration": 30
+        },
+        {
+        "name":"The Dark Knight",
+        "duration": 30
+        },
+        {
+        "name":"The Avengers",
+        "duration": 30
+        },
+        {
+        "name":"The Terminator",
+        "duration": 30
+        },
+        {
+        "name":"John Wick",
+        "duration": 30
+        },
+        {
+        "name":"Looper",
+        "duration": 30
+        },
+        {
+        "name":"Black Panther",
+        "duration": 30
+        },
+        {
+        "name":"Leathel Wepon",
+        "duration": 30
+        }
+        ]
+      
+      
+    },
+    {
+      "name":"MBC",
+      "programs":[
+        {
+          "name":"Frozen",
+          "duration": 135
+        },
+        {
+          "name":"Loin King",
+          "duration": 120
+        },
+        {
+          "name":"Jungle Book",
+          "duration": 105
+        },
+        {
+          "name":"Toy Story",
+          "duration": 90
+        },
+        {
+          "name":"Moana",
+          "duration": 75
+        },
+        {
+          "name":"Willie Wonka",
+          "duration": 60
+        },
+        {
+          "name":"Finding Nemo",
+          "duration": 30
+        },
+        {
+          "name":"Minions",
+          "duration": 30
+        }
+        ]
+      
+      
+    }
+  
+  ],
+  "responseCode": 200,
+  "status":true,
+  "today":"Tuesday"
+}
